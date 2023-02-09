@@ -12,3 +12,10 @@
 ![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvinip&show_icons=true&theme=radical)
+
+<div align="center">
+  <a href="https://github.com/believeItalo">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=believeItalo&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=believeItalo&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
