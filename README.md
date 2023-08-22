@@ -1,6 +1,8 @@
 ### Olá! Eu sou o Lucas Vinicius 🤙
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/lucas-vinicius-silva-686157219)
+<div> 
+    <a href="https://www.linkedin.com/in/lucas-vinicius-silva-686157219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ##
 ![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
